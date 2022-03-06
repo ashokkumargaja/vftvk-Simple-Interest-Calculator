@@ -6,10 +6,4 @@ h1{color:grey;font-family:verdana}
     width:475px;
     padding:20px;
     border-radius:25px;
-    box-align: center;
 }
-input {
-    height: 20px;
-    flex: 0 0 200px;
-    margin-left: 10px;
-  }
